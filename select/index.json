@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "心中無別人",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-17T19:46:26.834632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心中無別人",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/01_心中無別人_五月天.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心中無別人",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/02_心中無別人_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心中無別人",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/03_心中無別人_五月天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心中無別人",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/pl_01_心中無別人_Mayday.txt"
+    }
+  ]
+}
